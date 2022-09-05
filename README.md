@@ -10,4 +10,4 @@ incluso no reconocia versiones instaladas y se debia (downgrade) a una version a
 librerias.
 
 Tuve que convertir los folders a csv, para poder visualizar y posteriormente predecir, clasificar y recibir el margen de 
-error/acierto etc (mientras en el web-browser no funcionaba) tenia algunas salidas en pychar pro.
+error/acierto etc (mientras en el web-browser no funcionaba) si lo hacia en pychar pro.
