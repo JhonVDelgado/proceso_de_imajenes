@@ -1,4 +1,6 @@
 # proceso_de_imajenes
+****Importante el codigo de Jupyter se encuentra en (carnes2-checkpoint-.ipynb) debido a que intentaba hacer cambios de ultima hora y borre sin querer el archivo original, intente buscar en local history pero no suerte, asi que no podre hacer mas commits ya que se subiria el archivo vacio*** Intentare subir las imagene de los resultados en la plataforma al menos las que haya salvado.
+
 Jhon Vinicio Delgado Delgado Ciberseguridad Master
 Clase taratamiento de Datos
 Esta file es creada para poder servir mejor en el entendimiento del codigo y por parte del autor/copilador.
