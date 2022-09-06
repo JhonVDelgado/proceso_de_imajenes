@@ -1,5 +1,9 @@
 # proceso_de_imajenes
-****Importante el codigo de Jupyter se encuentra en (carnes2-checkpoint-.ipynb & carnes2ipynb) debido a que intentaba hacer cambios de ultima hora y borre sin querer el archivo original, intente buscar en local history y encontre esas dos filas, asi que no podre hacer mas commits ya que se subiria el archivo vacio*** Intentare subir las imagene de los resultados en la plataforma al menos las que haya salvado.
+****Importante el codigo de Jupyter se encuentra en recuperada, tambien subi un flowchart que explica mas o menos 
+en que me base para realizar la pre concepcion basandome en ese (blueprint). Como habia dicho aunque el codigo lo
+trabajo en el browser y despues lo ejecuto en pycharm, ya que es mucho mas flexible a la hora de modificar, pero en el 
+browser se ven muchos errores debido a las dependencias de software mientras en pycharm todo es importado mediante las librerias
+ Anconda al ofrecer varias versiones me esta dando complicaciones a la hora de compatibilidad.
 
 Jhon Vinicio Delgado Delgado Ciberseguridad Master
 Clase taratamiento de Datos
